@@ -116,7 +116,7 @@ export default function App() {
         <div className="sectionHeader">
           <span className="eyebrow">Presentation Library</span>
           <h2>Featured CRS presentations</h2>
-          <p>Add new weekly ASCO Post or oncology review presentations here without changing your website link.</p>
+          <p>Check back daily for new oncology research updates, presentation highlights, and Cancer Research Society learning resources.</p>
         </div>
         <div className="grid">
           {presentations.map((item) => (
