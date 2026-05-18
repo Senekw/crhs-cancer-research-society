@@ -1,5 +1,5 @@
 
-import { ExternalLink, Mail, Instagram, Microscope, Brain, Users, CalendarDays, Presentation } from 'lucide-react';
+import { ExternalLink, Mail, Microscope, Brain, Users, CalendarDays, Presentation } from "lucide-react";
 const officerLink = 'https://docs.google.com/forms/d/e/1FAIpQLSc4ANO5YMXIKc0_X6SXSEFmEUVvuR1_NSKS59hCiRwwIGPl1Q/viewform';
 const memberLink = 'https://docs.google.com/forms/d/e/1FAIpQLSe6P1e5gv2LLlf7xdrfqEBizH1zErdTkHMAI4tHaKlfm7N0tg/viewform';
 const presentations = [
