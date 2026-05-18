@@ -119,7 +119,7 @@ export default function App() {
           <p>
             Founded by a student oncology researcher with AACR, CCF, and ESMO
             research experience, and guided through mentorship from an MD
-            Anderson assistant professor and MIT-trained PhD scientist.
+            Anderson assistant professor and MIT trained PhD scientist.
           </p>
 
           <div className="stats">
@@ -157,10 +157,10 @@ export default function App() {
 
           <p>
             CRS was founded by a student researcher with oncology research
-            experience across AACR, CCF, and ESMO platforms — the American
+            experience across AACR, CCF, and ESMO platforms (the American
             Association for Cancer Research, Cholangiocarcinoma Foundation
-            Conference, and European Society for Medical Oncology. The society is
-            independently student-led and supported through academic mentorship
+            Conference, and European Society for Medical Oncology)currently publishing in two journals. The society is
+            independently student led and supported through academic mentorship
             from an MD Anderson assistant professor and MIT-trained PhD
             scientist.
           </p>
